@@ -27,12 +27,3 @@ class Stack:
 
 
 myStack = Stack()
-print(myStack.peek())
-myStack.push("Jerwin")
-myStack.push("Jonsta")
-myStack.push("Sheela")
-print(myStack.get_stack())
-print(myStack.peek())
-print(myStack.pop())
-print(myStack.peek())
-print(myStack.is_empty())
