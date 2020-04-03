@@ -38,6 +38,12 @@ class Stack:
             print(traverse.data, "->", end=" ")
             traverse = traverse.next
 
+    # Returns the top most element in a stack
+    def peek(self):
+        if not self.head:
+            return None
+        return self.head.data
+
 
 sampleStack = Stack()
 
@@ -46,6 +52,13 @@ sampleStack.push(140)
 sampleStack.push(3)
 sampleStack.push(49)
 sampleStack.push(77)
+print(sampleStack.peek(),
+      "Peek element = Recently pushed to the stack / Top element in a stack ",
+      end="\n")
 sampleStack.display()
 
-# Expected output: 44 -> 33 -> 22 -> 11 ->
+
+# Expected output:
+
+# 77 Peek element = Recently pushed to the stack / Top element in a stack
+# 77 -> 49 -> 3 -> 140 ->
