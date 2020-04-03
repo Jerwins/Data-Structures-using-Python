@@ -19,8 +19,6 @@ class Stack:
     def peek(self):
         if not self.is_empty():
             return self.items[-1]
-        else:
-            print("Stack is empty")
 
     def is_empty(self):
         return self.items == []
