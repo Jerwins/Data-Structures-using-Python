@@ -3,23 +3,23 @@
 Implementation of various data structures in Python.
 
 - Coverage of Data Structures
-    - [x] Array
-        - [x] Static Array and Dynamic Array
+    - [ ] Array
+        - [ ] Static Array and Dynamic Array
     - [x] Linked list
         - [x] Singly Linked List
-        - [x] Double Linked List
+        - [ ] Double Linked List
     - [x] Stack
         - [x] Stack Using Array
         - [x] Stack Using Linked List
-    - [x] Queue
-        - [x] Queue Using Array
-        - [x] Queue Using Linked List
-        - [x] Priority Queue
-    - [x] Trees
-        - [x] Binary Tree
-        - [x] Binary Search Tree
-    - [x] Union Find
-    - [x] Trie
-    - [x] Hash Table
-    - [x] Graph
+    - [ ] Queue
+        - [ ] Queue Using Array
+        - [ ] Queue Using Linked List
+        - [ ] Priority Queue
+    - [ ] Trees
+        - [ ] Binary Tree
+        - [ ] Binary Search Tree
+    - [ ] Union Find
+    - [ ] Trie
+    - [ ] Hash Table
+    - [ ] Graph
      
