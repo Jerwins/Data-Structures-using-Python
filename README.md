@@ -7,7 +7,7 @@ Implementation of various data structures in Python.
         - [ ] Static Array and Dynamic Array
     - [x] Linked list
         - [x] Singly Linked List
-        - [ ] Double Linked List
+        - [x] Double Linked List
     - [x] Stack
         - [x] Stack Using Array
         - [x] Stack Using Linked List
